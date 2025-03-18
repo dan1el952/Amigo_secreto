@@ -16,17 +16,11 @@ Una vez realizado el sorteo, la lista se limpia para comenzar un nuevo sorteo si
 
 📸 Capturas de pantalla
 1️⃣ Agregar nombres
-<img src="assets/![agregar nombres](https://github.com/user-attachments/assets/8fe25afa-acf0-4896-9fff-94a95204f375)
-" alt="Pantalla agregando nombres al sorteo" width="600">
-<p> "Se deve ingresar los nombres de los participantes" </p>
+<img src="[agregar nombres]C:...\agregar nombres.jpg" alt="Pantalla agregando nombres al sorteo" width="600">
 2️⃣ Lista de nombres antes del sorteo
-<img src="assets/![Lista de nombres](https://github.com/user-attachments/assets/517af18a-8581-4d76-8823-cf59bac174cc)
-" alt="Lista de nombres agregados" width="600">
-<p> "Se muestra los nombres de los participantes en una lista" </p>
+<img src="C:...\Lista de nombres.jpg" alt="Lista de nombres agregados" width="600">
 3️⃣ Resultado del sorteo
-<img src="assets/![resultado](https://github.com/user-attachments/assets/26f8b7f9-7c85-49ec-a9ee-491c5d9533fa)
-" alt="Resultado del amigo secreto sorteado" width="600">
-<p> "Resultado del amigo secreto" </p>
+<img src="C:...\resultado.jpg" alt="Resultado del amigo secreto sorteado" width="600">
 
 🛠 Tecnologías utilizadas
 HTML5
