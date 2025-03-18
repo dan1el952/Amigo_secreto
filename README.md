@@ -15,14 +15,16 @@ Reiniciar automáticamente:
 Una vez realizado el sorteo, la lista se limpia para comenzar un nuevo sorteo si lo deseas.
 
 📸 Capturas de pantalla
-<p> align="center">
+
 1️⃣ Agregar nombres
 <img src="avace/Lista%20de%20nombres.jpg" alt="Pantalla agregando nombres al sorteo" width="500">
+
 2️⃣ Lista de nombres antes del sorteo
 <img src="avace/agregar%20nombres.jpg" alt="Lista de nombres agregados" width="500)">
+
 3️⃣ Resultado del sorteo
 <img src="avace/resultado.jpg" alt="Resultado del amigo secreto sorteado" width="500">
-</p>
+
 🛠 Tecnologías utilizadas
 HTML5
 CSS3
