@@ -16,11 +16,11 @@ Una vez realizado el sorteo, la lista se limpia para comenzar un nuevo sorteo si
 
 📸 Capturas de pantalla
 1️⃣ Agregar nombres
-<img src="[agregar nombres]C:...\agregar nombres.jpg" alt="Pantalla agregando nombres al sorteo" width="600">
+<img src="![agregar nombres](https://github.com/dan1el952/Amigo_secreto/blob/main/avace/Lista%20de%20nombres.jpg)" alt="Pantalla agregando nombres al sorteo" width="500">
 2️⃣ Lista de nombres antes del sorteo
-<img src="C:...\Lista de nombres.jpg" alt="Lista de nombres agregados" width="600">
+<img src="![lista nombres](https://github.com/dan1el952/Amigo_secreto/blob/main/avace/agregar%20nombres.jpg" alt="Lista de nombres agregados" width="500)">
 3️⃣ Resultado del sorteo
-<img src="C:...\resultado.jpg" alt="Resultado del amigo secreto sorteado" width="600">
+<img src="![Resulatado](https://github.com/dan1el952/Amigo_secreto/blob/main/avace/resultado.jpg)" alt="Resultado del amigo secreto sorteado" width="500">
 
 🛠 Tecnologías utilizadas
 HTML5
