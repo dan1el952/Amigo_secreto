@@ -28,9 +28,9 @@ Una vez realizado el sorteo, la lista se limpia para comenzar un nuevo sorteo si
 
 <img src="avace/resultado.jpg" alt="Resultado del amigo secreto sorteado" width="500">
 
-<p> EJEMPLO </p>
-
+<p> EJEMPLO
 <img src="avace/Amigo%20Secreto%20-%20Google%20Chrome%202025-03-17%2022-59-05.mp4" alt="Muestra">
+</p>
 
 🛠 Tecnologías utilizadas
 HTML5
